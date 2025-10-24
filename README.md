@@ -27,11 +27,15 @@ We used  https://northeastern.instructure.com/courses/228751/assignments/2786113
 Data Preparation:
 
   -Extracted 500 sample reviews from the dataset
+  
   -Converted to text format for annotation
 
 Annotation Process:
 
   -Uploaded text data to the annotation tool
+  
   -Defined 6 custom entity types
+  
   -Manually labeled text spans with appropriate entity types
+  
   -Exported annotations in JSON format
