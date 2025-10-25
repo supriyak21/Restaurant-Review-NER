@@ -20,22 +20,22 @@ Format: Tab-separated values with Review text and Liked (0/1) columns
 
 Manual Annotation ProcessAnnotation Tool
 
-We used  https://northeastern.instructure.com/courses/228751/assignments/2786113?module_item_id=12233830#:~:text=https%3A//tecoholic.github,an%20external%20site. for manual annotation of the dataset.
+We used https://arunmozhi.in/ner-annotator/ for manual annotation of the dataset.
 
 **Steps for Creating Annotations:**
 
 Data Preparation:
 
-    -Extracted 500 sample reviews from the dataset
+- Extracted 500 sample reviews from the dataset
     
-    -Converted to text format for annotation
+- Converted to text format for annotation
 
 Annotation Process:
 
-    -Uploaded text data to the annotation tool
-    
-    -Defined 6 custom entity types
-    
-    -Manually labeled text spans with appropriate entity types
-    
-    -Exported annotations in JSON format
+- Uploaded text data to the annotation tool
+
+- Defined 6 custom entity types
+
+- Manually labeled text spans with appropriate entity types
+
+- Exported annotations in JSON format
